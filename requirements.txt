@@ -1,0 +1,5 @@
+opencv-python==4.5.3
+imutils==0.5.4
+sounddevice==0.4.1
+numpy==1.21.1
+python-telegram-bot==20.3
